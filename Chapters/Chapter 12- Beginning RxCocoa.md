@@ -474,8 +474,7 @@ let search = searchCityName.rx
 
 最后有一个特性表
 
-![Trait feature](https://github.com/kkkelicheng/RxSwift_Newbie/blob/main/images/trait_feature)
-
+![Trait feature](https://github.com/kkkelicheng/RxSwift_Newbie/blob/main/images/trait_feature.jpg)
 
 
 ### 12.6 RxCocoa的Disposing 
